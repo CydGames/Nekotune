@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c1gxa1pmcu2fl"
+path="res://.godot/imported/BLAST THAT LOVE.wav-6e6c3c6f21e92f25115f57381fe85a79.sample"
+
+[deps]
+
+source_file="res://Audio/Music/Songs/BLAST THAT LOVE.wav"
+dest_files=["res://.godot/imported/BLAST THAT LOVE.wav-6e6c3c6f21e92f25115f57381fe85a79.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

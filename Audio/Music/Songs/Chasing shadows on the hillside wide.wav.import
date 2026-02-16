@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bo2jno4acg05j"
+path="res://.godot/imported/Chasing shadows on the hillside wide.wav-8fffa254dd49e617d3929fe492c8046b.sample"
+
+[deps]
+
+source_file="res://Audio/Music/Songs/Chasing shadows on the hillside wide.wav"
+dest_files=["res://.godot/imported/Chasing shadows on the hillside wide.wav-8fffa254dd49e617d3929fe492c8046b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

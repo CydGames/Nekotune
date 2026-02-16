@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://b8n7e0qrfbu0k"]
+
+[ext_resource type="Texture2D" uid="uid://b4mjhe4mi5iuk" path="res://Sprites/A filled circle spri.png" id="1_doocs"]
+[ext_resource type="Script" uid="uid://blb53ifdtvcqa" path="res://Scripts/note.gd" id="2_wn01w"]
+
+[node name="Note" type="Sprite3D"]
+transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, 0, 0, 0)
+billboard = 1
+render_priority = 1
+texture = ExtResource("1_doocs")
+script = ExtResource("2_wn01w")

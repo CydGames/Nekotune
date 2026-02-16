@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://e3aw0gj17bh0"
+path="res://.godot/imported/願いの残響 Echo of wish V2.wav-e575c7e4b9630e4ed0e761f90d865fd3.sample"
+
+[deps]
+
+source_file="res://Audio/Music/Songs/願いの残響 Echo of wish V2.wav"
+dest_files=["res://.godot/imported/願いの残響 Echo of wish V2.wav-e575c7e4b9630e4ed0e761f90d865fd3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

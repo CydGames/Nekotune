@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c7ku2bx0fdojx"
+path="res://.godot/imported/限界の先へ (Genkai no Saki e — “Beyond the Limit”) V2.wav-0b3a9df14090a3530f3c309a4dda1989.sample"
+
+[deps]
+
+source_file="res://Audio/Music/Songs/限界の先へ (Genkai no Saki e — “Beyond the Limit”) V2.wav"
+dest_files=["res://.godot/imported/限界の先へ (Genkai no Saki e — “Beyond the Limit”) V2.wav-0b3a9df14090a3530f3c309a4dda1989.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

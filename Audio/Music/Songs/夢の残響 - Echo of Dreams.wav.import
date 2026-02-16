@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://fw4eyktxoh7a"
+path="res://.godot/imported/夢の残響 - Echo of Dreams.wav-376a0343a7b96c62798024482f154743.sample"
+
+[deps]
+
+source_file="res://Audio/Music/Songs/夢の残響 - Echo of Dreams.wav"
+dest_files=["res://.godot/imported/夢の残響 - Echo of Dreams.wav-376a0343a7b96c62798024482f154743.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

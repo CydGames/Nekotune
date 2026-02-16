@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c45e6p7xq2y2j"
+path="res://.godot/imported/ピクセル・パンク・パレード - (Pixel Punk Parade).wav-8f76b4b867f319c6d1d45117e36c70bf.sample"
+
+[deps]
+
+source_file="res://Audio/Music/Songs/ピクセル・パンク・パレード - (Pixel Punk Parade).wav"
+dest_files=["res://.godot/imported/ピクセル・パンク・パレード - (Pixel Punk Parade).wav-8f76b4b867f319c6d1d45117e36c70bf.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
